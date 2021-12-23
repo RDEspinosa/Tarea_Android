@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_view">Write your name and look the list</string>
+    <string name="edit_text">Name</string>
+    <string name="button">View List</string>
+    <string name="text_view2">Hi, Unknown</string>
+    <string name="hello">Hi</string>
+</resources>

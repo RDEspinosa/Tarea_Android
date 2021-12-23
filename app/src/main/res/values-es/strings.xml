@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="text_view" translatable="false">Escribe tu nombre y pasa a ver la lista</string>
+    <string name="edit_text" translatable="false">Nombre</string>
+    <string name="button" translatable="false">Ver Lista</string>
+    <string name="text_view2" translatable="false">Hola, Desconocido/a</string>
+    <string name="hello" translatable="false">Hola</string>
+</resources>
